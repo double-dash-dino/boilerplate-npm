@@ -1,4 +1,5 @@
 # Backend Challenges boilerplate - package.json
 
 [![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
--Change for netlify deploy, again
+
+Deploy to https://learning-backend-and-apis.netlify.app/
